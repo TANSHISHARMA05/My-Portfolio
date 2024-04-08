@@ -41,7 +41,7 @@ h2 {
 }
 .firstpara {
   font-size: 20px;
-  text-align: justify;
+  text-align: start;
 }
 .secondpara {
   font-size: 25px;
